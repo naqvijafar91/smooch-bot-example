@@ -5,7 +5,7 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, JafarBot is back.",
 
-    "HIS PROJECTS" : "I am still learning about his vast projects, it will take some time for me to digest all that. \n But i do know about his %[His technology stack](postback:here_for_the_tech_stack)",
+    "HIS PROJECTS" : "I am stisall learning about his vast projects, it will take some time for me to digest all that. \n But i do know about his %[His technology stack](postback:here_for_the_tech_stack)",
     "TECHNOLOGY THOUGHTS!":"System Scalability and User Experience - In the end, thats all that matters. \n This is his belief and the same is reflected in his work %[His technology stack](postback:here_for_the_tech_stack)",
     "HIS TECHNOLOGY STACK" : "Great, Jafar has worked on multiple domains, he can take care of the complete development process.\n Given a problem statement, he can quickly set up a SailsJs(Built on top of Express-Nodejs) server, a native Android application and even a desktop client in Golang or Node Webkit  %[Frontend](postback:frontend) %[Mobile](postback:mobile) %[Backend](postback:backend)",
 
